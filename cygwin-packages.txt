@@ -1,0 +1,9 @@
+libevent-devel
+libzmq-devel
+libxml2-devel
+libiconv-devel
+libxslt1-devel
+libjpeg-devel
+gcc
+gcc-g++
+make
