@@ -182,4 +182,10 @@ epub_copyright = copyright
 # A list of files that should not be packed into the epub file.
 epub_exclude_files = ['search.html']
 
+rst_prolog = """
+.. include:: roles.rst
+.. default-role::
 
+"""
+
+html_css_files = [ 'css/roles.css' ]
