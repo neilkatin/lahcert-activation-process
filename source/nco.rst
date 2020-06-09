@@ -23,6 +23,7 @@ The NCO should announce themselves on the radio (typically the W6LAH repeater, i
 otherwise on the town's simplex frequency).
 
 :red:`QUESTION:` should the NCO recruit an SMS monitor at this point to collect non-ham incident reports?
+:red:`QUESTION:` Are we training to make MM reports via SMS?
 
 Decide whether we are going to activate
 ---------------------------------------
@@ -32,27 +33,29 @@ higher then we will start the activation process.
 
 Announce the results over the air.
 
-Not activating
---------------
-
-If under 25% of the reports we will not activate without further instructions from the town.
-
-The NCO should:
-
-* arrange for someone to cummunicate the current MM total counts to the county resource net (AA6BT)
-* arrange for someone to communicate with town staff (See the IC document for more details)
-
 Activating
 ----------
 
-If we are activating the NCO's responsibilities are to:
+If we are activating, the NCO's responsibilities are to:
 
 * Run the net, coordinating transmissions among net participants
 * Keep a roster of who is on the net, to communicate to the IC and other folks who need to know.
 * coordinate the selection of the Incident Commander, based on the roster of checked in people
+* arrange for someone to communicate the current MM total counts to the county resource net (AA6BT)
+* arrange for someone to communicate with town staff (See the IC document for more details)
 
 After that the NCO will focus on running the net,
 and communicating tasks from the IC (and others) and facilitating communication until we can transition
 operations to the ARK and EOC.
 
+Not activating
+--------------
+
+If under 25% of the reports we will not activate without further instructions from the town.
+
+The NCO still should:
+
+* arrange for someone to communicate the current MM total counts to the county resource net (AA6BT)
+* arrange for someone to communicate with town staff (See the IC document for more details)
+* keep the net active for late MM reports, keep a roster of hams who have checked in, and inform the net of non-activation for the next hour
 

@@ -12,7 +12,7 @@ responders and communicating assignments.
 Details
 -------
 
-Our CERT phone number (650 549 5242) is a google voice number.  This means it is a virtual number.
+Our CERT phone number (650 549 5242) is a Google voice number.  This means it is a virtual number.
 Many people can monitor it.
 
 We also have SMS messages set up to forward to a cell phone in the ARK (note: this doesn't exist
@@ -35,6 +35,9 @@ Here are the ways to access SMS messages in Google Voice:
 
 * You can have sms messages forwarded to your phone.  This is what we do for the CERT phone.  This requires
   the cell system to be operating.
+
+As of 2020-06, only Neil Katin and Dave Stewart are set up to do this.  We should get additional volunteers.
+
 
 Responsibilities
 ----------------

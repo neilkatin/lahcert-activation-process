@@ -10,7 +10,7 @@ We refer to this using the MM abbreviation, which is
 voiced on the radio as "Mike-Mike" (the ISO phonetic
 pronounciation of the letter M is "Mike").
 
-The purpose of having an agreed scale is so we can meaninfully collect multiple reports
+The purpose of having a well defined scale is so that we can meaninfully collect multiple reports
 together and get a common picture of the town's status.
 
 We use the `same system`_ used by Santa Clara County Ares Races, so we can report results up
@@ -25,7 +25,7 @@ past Severe (MM-8) just counted as the same as Severe.
 
 .. _`official USGS Modified Mercalli scale`: https://pubs.usgs.gov/gip/earthq4/severitygip.html
 
-The goal of the scale is to be somewhat objective, reporting observable damage.  Here's the scale
+The goal of the scale is to report observable damage in an objective way.  Here's the scale
 and guidelines for what each level corresponds to:
 
 
@@ -66,8 +66,8 @@ and guidelines for what each level corresponds to:
 
 When reporting Mike-Mike reports over the radio use this format:
 
-    <your call sign> <your zone> <mike-mike number> <your call sign>
+    <your call sign> <your zone> "Mike Mike" <mike-mike number> <your call sign>
 
 For example:
 
-    W6XRL4 Zone 33 Mike-Mike 3 W6XRL4
+    Whisky 6 Xray Romeo Lima 4 Zone 33 Mike-Mike 3 W6XRL4

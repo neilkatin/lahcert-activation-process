@@ -1,5 +1,5 @@
 
-LAH CERT Actions After an Earthqualke
+LAH CERT Actions After an Earthquake
 ======================================
 
 This is the document source for the Los Altos Hills CERT (Community Emergency Response Team)
