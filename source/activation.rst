@@ -67,7 +67,7 @@ The rest of this document describes several abstract roles in setting up a respo
 :term:`ICS` process multiple roles might be filled by a single person in a small response.  Also, roles
 might be handed off from one person to another over time.
 
-These position descriptions are only intended to outline the initial steps of the response, before the EOC and ARK are opened or fully operational.
+These position descriptions are only intended to outline the initial steps of the response, before the EOC and ARK are opened and fully operational.
 
 * Net Control Operator (NCO)
 

@@ -22,7 +22,7 @@ Recruiting Staff
 Your first task is to recruit some extra folks to help accomplish your key goals.
 This document forsees three additional roles:
 
-* the NCO, who may already be active, or may need to be relieved
+* the NCO (although an NCO already exists: you may want to get someone more experienced)
 * the County Liason to relay messages to and from the county resource net
 * the SMS Monitor to send and receive messages to those without ham radios
 

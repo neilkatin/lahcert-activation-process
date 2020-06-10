@@ -22,8 +22,7 @@ collect mike-mike reports for about 10 minutes.
 The NCO should announce themselves on the radio (typically the W6LAH repeater, if it is operating;
 otherwise on the town's simplex frequency).
 
-:red:`QUESTION:` should the NCO recruit an SMS monitor at this point to collect non-ham incident reports?
-:red:`QUESTION:` Are we training to make MM reports via SMS?
+:red:`QUESTION:` should the NCO recruit an SMS monitor at this point to collect non-ham incident reports instead of waiting for an IC to be selected?
 
 Decide whether we are going to activate
 ---------------------------------------
