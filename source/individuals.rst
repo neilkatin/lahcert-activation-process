@@ -17,7 +17,7 @@ If you have time and are safe: you should make an initial damage report to the t
 
 If you are a ham radio operator:
 
-    If you are the first one on the frequency: congradulations!  You are now net control.  See that section.
+    If you are the first one on the frequency: congratulations!  You are now net control.  See that section.
 
     Otherwise make your `Mike-Mike damage report`_ on the net.
 
@@ -31,7 +31,7 @@ If you are not a ham operator but can text:
 
     To make the SMS monitor's job easier please format your message like this:
 
-    <<Name>>  <<CERT Zone>>  <<Mike-Mike> <<Yes/No repond>>  <<Yes/No Ham>> <<Yes/No CERT Sup>>  <<Yes/No Recon>>
+    <<Name>>  <<CERT Zone>>  <<Mike-Mike number>> <<Yes/No repond>>  <<Yes/No Ham>> <<Yes/No CERT Sup>>  <<Yes/No Recon>>
 
     Example:
 
@@ -43,8 +43,9 @@ If you are not a ham operator but can text:
     You may be asked to stand by, or you may be given a task.  Remember: you are a volunteer; you
     should feel free to reject any assignment that you aren't comfortable with.
 
-    If you don't hear back within 30 minutes or so: SMS may not be working.  You can proceed to the
-    ARK.  Remember: silence *may* mean that we aren't activating, but something went wrong with SMS.
+    If you don't hear back within 30 minutes or so.  You can gather your personal protective equipment and gear,
+    and  proceed to the ARK.  
+    Remember: silence *may* mean that we aren't activating, or that SMS is not functioning.
 
     One of the early tasks is to send a ham radio operator to the ARK so we can pass information to
     anyone who is gathered there.

@@ -5,7 +5,7 @@ Incident Commander
 Responsibilities
 ----------------
 
-The Incident Commander is overal responsibilty for the operation.  This person has responsibility for forming the initial leadership team and setting priorities until the EOC and ARK are up and operating.
+The Incident Commander has overall responsibilty for the operation.  This person has responsibility for forming the initial leadership team and setting priorities until the EOC and ARK are up and operating.
 
 The IC's responsibilities are:
 
@@ -22,7 +22,7 @@ Recruiting Staff
 Your first task is to recruit some extra folks to help accomplish your key goals.
 This document forsees three additional roles:
 
-* the NCO, which should already be there
+* the NCO, who may already be active, or may need to be relieved
 * the County Liason to relay messages to and from the county resource net
 * the SMS Monitor to send and receive messages to those without ham radios
 
@@ -43,7 +43,7 @@ They have granted us a large amount of autonomy in the event of an earthquake.  
 boundaries of our authorization.
 
 You need to communicate your initial plan to the town staff.  This will typically be to survey the
-critical infrastructure and do a initial windshield survey, but you can modify your plan to fit
+critical infrastructure and do an initial windshield survey, but you can modify your plan to fit
 the situation.
 
 The town has a EOC Call-out Sheet with names, emails and phone numbers of the town personnel to contact
@@ -70,7 +70,7 @@ Eventual assignments
 --------------------
 
 Once approval from town personnel is obtained you can proceed with opening the ARK and EOC.
-Once they are up and running you can pass control to the IC at the ARK.
+Once they are up and running you can pass control to the IC at the Ark or move to the Ark yourself.
 
 * You should start staffing the EOC.  The minimum staff is two hams, eventually going to three people.
 * You should start staffing the ARK.  The ARK should be staffed with at least five people (including
