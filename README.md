@@ -26,7 +26,7 @@ Use these steps to get up and running (from the root of the git repo):
 ```shell
 pipenv --python 3.8
 pipenv update
-pipenv make autobuild
+pipenv run make autobuild
 ```
 
 This will start a web server on [http://127.0.0.1:8000/](http://127.0.0.1:8000/) that will
