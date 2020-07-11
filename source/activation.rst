@@ -10,7 +10,7 @@ It focuses on the tasks we need to do at the beginning of an activation.
 
 There are two activation scenarios we have:
 
-- after an earthquake (activation by rule)
+- after an earthquake (activation by a rule in the town's Emergency Operation Plan [:term:`EOP`])
 - anything else (only when notified by the town)
 
 This document focuses on the earthquake scenario, and assumes the internet is either
@@ -23,26 +23,27 @@ We (LAH CERT) used to have the rule of "check your zone, then go to the :term:`A
 It was decided to change that policy because the :term:`DSW` program requires everyone to
 be tracked and under positive control.
 
-The new policy is to either check in via ham radio, text or phone, or to go to the ARK and check in there.
+The new policy is to either check in via ham radio or text, or if neither of those work to go to the ARK and check in there.
 
 If the internet is out its very hard to handle those check-ins remotely, so we'll need a core staff at the
 :term:`ARK` to handle the check-ins.
 
-We did a dry run of this check-in policy; it was a bit painful.  This process is meant to simplify and streamline
-our check-in process while still not requiring everyone to travel to the :term:`ARK` first.
+We did a tabletop dril of this check-in policy; it was hard to follow the original document.
+This process is meant to simplify and streamline our check-in process while still not requiring everyone
+to travel to the :term:`ARK` first.
 
 Activation
 ----------
 
 There are four situations where a town volunteer (ECC or CERT) might be activated:
 
-- When town or county personnel request it
+#. When town or county personnel request it
 
-- After an earthquake strong enough to make 'things fall off the shelf'
+#. After an earthquake strong enough to make 'things fall over or off shelves'
 
-- When there is an imminent threat of extreme peril or the need to mitigate a potential imminent threat to life, property or the environment, when time is of the essence and within the scope of your training.
+#. When there is an imminent threat of extreme peril or the need to mitigate a potential imminent threat to life, property or the environment, when time is of the essence and within the scope of your training.
 
-- When first responders (law, fire, public works, utility workers) directly request assistance for emergencies satisfying #3.
+#. When first responders (law, fire, public works, utility workers) directly request assistance for emergencies satisfying #3.
 
 This document will only consider the first two, which are the two scenarios we train for.
 
@@ -55,7 +56,7 @@ activated: they don't need power or telecom infrastructure to be working.
 
 There are two groups of ham operators in town: :term:`ECC`
 operators and :term:`CERT` field operators (aka Recon).  The ECC's roles
-are primarily to help staff the :term:`EOC` and other fixed location in town.  
+are primarily to help staff the :term:`EOC` and other fixed locations in town.  
 :term:`Recon` primarily serves as mobile teams around town.
 
 In the case of an earthquake we have a pre-scripted set of tasks.
@@ -93,7 +94,7 @@ These position descriptions are only intended to outline the initial steps of th
 
 * SMS Monitor
 
-  Most of our certs aren't ham licensed (although we encourage everyone to monitor the net).
+  Most of our CERTs aren't ham licensed (although we encourage everyone to monitor the net).
   We plan to communicate with the rest of our CERTs via SMS.  This role is described in the
   `SMS Monitor`_ chapter.
 
@@ -112,7 +113,7 @@ Glossary
 .. glossary::
 
    ARK
-      a CERT term for a storage shed with emergency supplies.  The LAH ARK is at foothill college parking lot 7.
+      A storage shed with CERT emergency supplies.  The LAH ARK is at Foothill college parking lot 7.
 
    CERT
       Community Emergency Response Team
@@ -126,6 +127,9 @@ Glossary
    EOC
       Emergency Operations Center
 
+   EOP
+      The `Los Altos Hills Emergency Operations Plan`_ (dated 2018-10-18)
+
    ICS
       Incident Command System
 
@@ -133,10 +137,10 @@ Glossary
       Los Altos Hills
 
    Recon
-      the name of the CERT folks who have amateur radio licenses and are trained in our field reporting procedures
+      The name of the CERT folks who have amateur radio licenses and are trained in our field reporting procedures
 
    SMS
       Simple Message Service: text messaging, aka mobile messages
 
-
+.. _`Los Altos Hills Emergency Operations Plan`: https://www.losaltoshills.ca.gov/DocumentCenter/View/2321/LAH-Emergency-Operations-Plan-EOP
 

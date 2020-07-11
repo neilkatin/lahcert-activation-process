@@ -18,6 +18,7 @@ Welcome to LAH CERT's documentation!
    sms
    individuals
    mike-mike
+   changelog
  
 
 

@@ -70,7 +70,7 @@ Eventual assignments
 --------------------
 
 Once approval from town personnel is obtained you can proceed with opening the ARK and EOC.
-Once they are up and running you can pass control to the IC at the Ark or move to the Ark yourself.
+Once they are up and running you can pass control to the IC at the ARK or move to the ARK yourself.
 
 * You should start staffing the EOC.  The minimum staff is two hams, eventually going to three people.
 * You should start staffing the ARK.  The ARK should be staffed with at least five people (including

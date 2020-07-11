@@ -13,7 +13,7 @@ What to do
 After an earthquake you should follow the standard CERT procedures:
 check yourself, your family, your neighbors.
 
-If you have time and are safe: you should make an initial damage report to the town.
+If you have time and are safe: you should make an initial `Mike-Mike damage report`_ to the town:
 
 If you are a ham radio operator:
 
@@ -26,7 +26,7 @@ If you are a ham radio operator:
 
 If you are not a ham operator but can text:
 
-    Send a text to the CERT phone (650 549 5242) with your Mike Mike report and
+    Send a text to the CERT phone (650 549 5242) with your Mike-Mike report and
     whether you can respond or not.
 
     To make the SMS monitor's job easier please format your message like this:

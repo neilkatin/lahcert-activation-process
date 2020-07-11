@@ -30,6 +30,8 @@ Decide whether we are going to activate
 After 10 minutes the NCO will check the results.  If over 25% of the reports are MM6 or
 higher then we will start the activation process.
 
+Remember this is an appoximate rule.  Areas that are hardest hit may be 'silent'.  Hearing nothing does not mean everything is OK.
+
 Announce the results over the air.
 
 Activating
@@ -41,11 +43,16 @@ If we are activating, the NCO's responsibilities are to:
 * Keep a roster of who is on the net, to communicate to the IC and other folks who need to know.
 * coordinate the selection of the Incident Commander, based on the roster of checked in people
 * arrange for someone to communicate the current MM total counts to the county resource net (AA6BT)
-* arrange for someone to communicate with town staff (See the IC document for more details)
 
 After that the NCO will focus on running the net,
 and communicating tasks from the IC (and others) and facilitating communication until we can transition
 operations to the ARK and EOC.
+
+Traffic the NCO should be prepared to receive and handle until operations pass to the ARK:
+
+* inquiries from town volunteers who are just joining the net
+* survey reports from Recon unit
+* incident reports received from field units for relay to emergency services (if possible)
 
 Not activating
 --------------
