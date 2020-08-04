@@ -27,10 +27,11 @@ otherwise on the town's simplex frequency).
 Decide whether we are going to activate
 ---------------------------------------
 
-After 10 minutes the NCO will check the results.  If over 25% of the reports are MM6 or
+After 10 minutes the NCO will check the results.  The standing rule is: if over 25% of the reports are MM6 or
 higher then we will start the activation process.
 
-Remember this is an appoximate rule.  Areas that are hardest hit may be 'silent'.  Hearing nothing does not mean everything is OK.
+But the NCO has some discretion based on what they observe and the reports they receive.
+Areas that are hardest hit may be 'silent'.  Hearing nothing does not mean everything is OK.
 
 Announce the results over the air.
 
