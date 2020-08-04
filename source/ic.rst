@@ -36,15 +36,18 @@ The SMS Monitor should start collecting and acknowledging SMS messages.
 Contact Town Staff
 ------------------
 
-Your next step should be to contact town staff.  The town has pre-authorized us to take a small set of tasks to
-start the response, but we need to get their approval for further actions.  In the end: we are here to
-serve the town's needs, and the town staff set the priorities and have ultimate control of our actions.
-They have granted us a large amount of autonomy in the event of an earthquake.  We need to respect the
-boundaries of our authorization.
+Your next step should be to contact town staff.  The town has
+pre-authorized us to take a small set of tasks to start the response,
+but we need to get their approval for further actions.  In the end: we
+are here to serve the town's needs, and the town staff set the priorities
+and have ultimate control of our actions.  They have granted us a large
+amount of autonomy in the event of an earthquake.  We need to respect
+the boundaries of our authorization.
 
-You need to communicate your initial plan to the town staff.  This will typically be to survey the
-critical infrastructure and do an initial windshield survey, but you can modify your plan to fit
-the situation.
+You need to communicate your initial plan to the town staff.  This will
+typically be to survey the critical infrastructure and do an initial
+windshield survey (that is: stay in the car and drive by houses), but
+you can modify your plan to fit the situation.
 
 The town has a EOC Call-out Sheet with names, emails and phone numbers of the town personnel to contact
 in the event of an emergency.  This document can be found in the `Private Documents`_ page of the password-protected
@@ -55,7 +58,7 @@ web site.
 You need to reach out to the staff (in the specified order) until you reach someone.  The call-out sheet also has email
 addresses to use to send updates.
 
-If you cannot reach someone in 30 minutes you should call Santa Clara County OES (contact numbers on the call-out sheet).
+If you cannot reach someone in 30 minutes you should call Santa Clara County OES (contact numbers on the call-out sheet) to notify them that CERT is activating according to the town's emergency plan.
 
 Initial assignments
 -------------------
@@ -79,7 +82,7 @@ Once they are up and running you can pass control to the IC at the ARK or move t
 
 All these headcount numbers can be adjusted based on how many responders are actually available.
 
-Add section about staffing EOC and ARK
+(TODO) Add section about staffing EOC and ARK
 
 
 

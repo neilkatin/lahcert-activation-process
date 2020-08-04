@@ -33,6 +33,24 @@ If you are not a ham operator but can text:
 
     <<Name>>  <<CERT Zone>>  <<Mike-Mike number>> <<Yes/No repond>>  <<Yes/No Ham>> <<Yes/No CERT Sup>>  <<Yes/No Recon>>
 
+    Where:
+
+    * <<Name>>: Your full name
+
+    * <<CERT Zone>>: The zone you live in.  If you don't recall your zone say "Zone Unknown"
+
+    * <<Mike-Mike number>>: Your severity observation.  See the `Mike-Mike damage report`_
+      section for the definitions
+
+    * <<Yes/No repond>>: whether or not you can help out: "Yes repond" if you can; "No respond" if you can't
+
+    * <<Yes/No Ham>> whether or not you have a ham license and a working radio you can use
+
+    * <<Yes/No CERT Sup>> whether or not you are a CERT Supervisor
+
+    * <<Yes/No Recon>> whether or not you are Recon trained and willing to do so
+
+
     Example:
 
     Jane Doe Zone 35 MM-4 Yes-Respond No-Ham No-Sup Yes-Recon
@@ -43,7 +61,7 @@ If you are not a ham operator but can text:
     You may be asked to stand by, or you may be given a task.  Remember: you are a volunteer; you
     should feel free to reject any assignment that you aren't comfortable with.
 
-    If you don't hear back within 30 minutes or so.  You can gather your personal protective equipment and gear,
+    If you don't hear back within 30 minutes or so:  you can gather your personal protective equipment and gear,
     and  proceed to the ARK.  
     Remember: silence *may* mean that we aren't activating, or that SMS is not functioning.
 
@@ -54,8 +72,22 @@ If you can't text:
 
     You can go to the ARK and await further instructions.
 
+If you are at the ARK:
+
+    A ham radio operator will be dispatched to the ARK if we are activating.
+
+    If no one shows up in 45 minutes: you will have to use your judgement.
+    If damage is light or nonexistant then no one arriving with a ham radio probably
+    means we aren't activating.  If there is lots of damage then it
+    means things are running slowly; eventually someone will show up
+    (even if they have to walk or bike).
+
+    But this is yet one more reason who you should have a ham radio,
+    even without a license: you can listen to the radio to get status,
+    even if you can't legally transmit.
+
 .. _`Mike-Mike damage report`: mike-mike.html
-  
+
 
 
 

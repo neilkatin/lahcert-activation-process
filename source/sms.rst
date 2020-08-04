@@ -18,14 +18,14 @@ Many people can monitor it.
 We also have SMS messages set up to forward to a cell phone in the ARK (note: this doesn't exist
 in June 2020, but we're working to get a cell phone and this document assumes we have one).
 
-To access text messages during an event: it helps to have set up things before hand.
+To access text messages during an event: it helps to have set up things beforehand.
 
 Here are the ways to access SMS messages in Google Voice:
 
 * You can receive emails with text messages.
 
   We have google voice configured to send all text messages to the lahcert at gmail account.  You can
-  ask to have a forwarding rule set up to forward text messages to your personal email.  This only works
+  ask to have a forwarding rule set up to forward text messages to your personal email.  This works only
   if the internet is accessable.
 
 
@@ -44,6 +44,6 @@ Responsibilities
 
 As SMS Monitor you will need to stay in contact with the IC and NCO and relay messages back and forth.
 
-You should expect the IC to ask for a information about people who have checked in, and receive requests
-to relay to those people.
+You should expect the IC to ask for information about people who have checked in, and receive requests
+to relay messages to those people.
 

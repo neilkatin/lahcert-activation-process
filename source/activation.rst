@@ -25,7 +25,7 @@ be tracked and under positive control.
 
 The new policy is to either check in via ham radio or text, or if neither of those work to go to the ARK and check in there.
 
-If the internet is out its very hard to handle those check-ins remotely, so we'll need a core staff at the
+If the internet is out it is very hard to handle those check-ins remotely, so we'll need a core staff at the
 :term:`ARK` to handle the check-ins.
 
 We did a tabletop drill of this check-in policy; it was hard to follow the original document.
@@ -45,13 +45,13 @@ There are four situations where a town volunteer (ECC or CERT) might be activate
 
 #. When first responders (law, fire, public works, utility workers) directly request assistance for emergencies satisfying #3.
 
-This document will only consider the first two, which are the two scenarios we train for.
+This document will consider only the first two, which are the two scenarios we train for.
 
 
 Check-in from a ham radio operator's perspective
------------------------------------------------
+------------------------------------------------
 
-In general our ham operators can coordinate the easiest after being
+In general, our ham operators can coordinate the easiest after being
 activated: they don't need power or telecom infrastructure to be working.
 
 There are two groups of ham operators in town: :term:`ECC`
@@ -65,10 +65,10 @@ Roles in this document
 -----------------------------------------------
 
 The rest of this document describes several abstract roles in setting up a response.  Much like the
-:term:`ICS` process multiple roles might be filled by a single person in a small response.  Also, roles
+:term:`ICS` process, multiple roles might be filled by a single person in a small response.  Also, roles
 might be handed off from one person to another over time.
 
-These position descriptions are only intended to outline the initial steps of the response, before the EOC and ARK are opened and fully operational.
+These position descriptions are intended to outline only the initial steps of the response, before the EOC and ARK are opened and fully operational.
 
 * Net Control Operator (NCO)
 

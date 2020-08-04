@@ -5,7 +5,7 @@ Mike-Mike Reports
 What's a Mike-Mike?
 -------------------
 
-We report damage using the Modified-Mercali Scale.
+We report damage using the Modified-Mercalli Scale.
 We refer to this using the MM abbreviation, which is
 voiced on the radio as "Mike-Mike" (the ISO phonetic
 pronounciation of the letter M is "Mike").
@@ -19,14 +19,19 @@ the chain.  (All jurisdictions in the county use the same system.
 
 .. _`same system`: https://www.scc-ares-races.org/MMScale.html
 
-The `official USGS Modified Mercalli scale`_ has 12 levels.
+The `official USGS Modified Mercalli scale`_ (`alternate reference`_) has 12 levels.
 Our county has truncated the table to 8 levels, with anything
 past Severe (MM-8) just counted as the same as Severe.
 
 .. _`official USGS Modified Mercalli scale`: https://pubs.usgs.gov/gip/earthq4/severitygip.html
+.. _`alternate reference`: https://www.usgs.gov/natural-hazards/earthquake-hazards/science/modified-mercalli-intensity-scale
 
-The goal of the scale is to report observable damage in an objective way.  Here's the scale
-and guidelines for what each level corresponds to:
+The goal of the scale is to report observable effects in a more consistent way.  
+The lower numbers of the intensity scale generally deal with the manner in which
+the earthquake is felt by people. The higher numbers of the scale are based on
+observed structural damage
+
+Here's the scale and guidelines for what each level corresponds to:
 
 
 +-----------------+-------------+----------------------------------------------------------------------+

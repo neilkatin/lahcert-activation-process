@@ -12,7 +12,7 @@ they can pass the responsibility off as other, perhaps more qualified, people co
 Initial Task
 ------------
 
-The initial task of the NCO is to collect modified mercali incident reports
+The initial task of the NCO is to collect 'Modified Mercalli' incident reports
 (see the `Mike-Mike Reports`_ chapter for more information
 about this system and how we use it).  The normal expectation is that we will
 collect mike-mike reports for about 10 minutes.
