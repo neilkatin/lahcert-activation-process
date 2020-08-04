@@ -28,7 +28,7 @@ The new policy is to either check in via ham radio or text, or if neither of tho
 If the internet is out its very hard to handle those check-ins remotely, so we'll need a core staff at the
 :term:`ARK` to handle the check-ins.
 
-We did a tabletop dril of this check-in policy; it was hard to follow the original document.
+We did a tabletop drill of this check-in policy; it was hard to follow the original document.
 This process is meant to simplify and streamline our check-in process while still not requiring everyone
 to travel to the :term:`ARK` first.
 
