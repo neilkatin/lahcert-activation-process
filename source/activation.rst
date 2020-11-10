@@ -5,7 +5,7 @@ LAH Activation Procedure
 How to get up and running after an earthquake
 ---------------------------------------------
 
-This article documents the activation procedure :term:`LAH` :term:`CERT`.
+This document describes the activation procedure :term:`LAH` :term:`CERT`.
 It focuses on the tasks we need to do at the beginning of an activation.
 
 There are two activation scenarios we have:
@@ -24,6 +24,7 @@ It was decided to change that policy because the :term:`DSW` program requires ev
 be tracked and under positive control.
 
 The new policy is to either check in via ham radio or text, or if neither of those work to go to the ARK and check in there.
+(ECC members may go to the EOC instead).
 
 If the internet is out it is very hard to handle those check-ins remotely, so we'll need a core staff at the
 :term:`ARK` to handle the check-ins.

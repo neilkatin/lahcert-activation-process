@@ -2,9 +2,9 @@
 #
 
 # You can set these variables from the command line.
-SPHINXOPTS    = --port 5001
+SPHINXOPTS    = 
+SPHINXAUTO    = --port 5001
 SPHINXBUILD   = sphinx-build
-SPHINXPROJ    = LAHCERT
 SOURCEDIR     = source
 BUILDDIR      = build
 
@@ -22,4 +22,4 @@ help:
 	$(SPHINXBUILD) -M $@ $(SPHINXOPTS) "$(SOURCEDIR)" "$(BUILDDIR)" $(O)
 
 autobuild:
-	sphinx-autobuild -b html $(SPHINXOPTS) --ignore "*.swp" "$(SOURCEDIR)" "$(BUILDDIR)" 
+	sphinx-autobuild -b html $(SPHINXAUTO) --ignore "*.swp" "$(SOURCEDIR)" "$(BUILDDIR)" 

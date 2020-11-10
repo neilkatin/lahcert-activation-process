@@ -11,6 +11,7 @@ Welcome to LAH CERT's documentation!
    :numbered: 3
    :caption: Contents:
 
+   readfirst
    activation
    nco
    ic
